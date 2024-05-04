@@ -40,7 +40,7 @@ public class Main {
     public static void renderTheTable(String[][] arr) {
         String[][] tableArr = arr;
         String dash = "_____________________________________________________";
-        String tableHeader = "| Id | Имя Игрока          | Очки | Коэф. Бухгольца |";
+        String tableHeader = "| Id | Имя Игрока       | Очки | Коэф. Бухгольца |";
         System.out.println(dash);
         System.out.println(tableHeader);
         System.out.println(dash);
